@@ -1,2 +1,1 @@
-# Coursera-test
-Coursera Test repository
+Bootstrap Testing
